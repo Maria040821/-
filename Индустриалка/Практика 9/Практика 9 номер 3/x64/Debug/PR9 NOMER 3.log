@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\XOTTAbl4\source\repos\PR9 NOMER 3\PR9 NOMER 3\main.cpp(26,24): error C2676: бинарный "[": "Set<int>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+  Set.cpp
+  Создание кода...
